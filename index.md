@@ -3,6 +3,6 @@
 
 
 ## Games I've built 
-* (Platform Shooter)[https://masonchambers7675.github.io/shooter-game/] 
+* [Platform Shooter](https://masonchambers7675.github.io/shooter-game/)
 * Runner (soon coming!)
 * Personal Project (soon coming!)
